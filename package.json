@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "npm": "6.13.4",
-    "node": "12.15.0"
+    "npm": "6.13.x",
+    "node": "12.15.x"
 },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -14,7 +14,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-particles-js": "^2.7.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "3.1.2",
     "react-tilt": "^0.1.4",
     "tachyons": "^4.11.1"
   },
