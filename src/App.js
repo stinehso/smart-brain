@@ -10,7 +10,6 @@ import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import './App.css';
 
 
-
 const particlesOptions = {
 	particles: {
 		number: {
